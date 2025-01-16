@@ -51,4 +51,4 @@ The **Online Examination System** is a comprehensive solution for conducting com
 1. **Clone the Repository**:
    Clone the project repository from GitHub:
    ```bash
-   git clone https://github.com/your-username/Online-Examination-System.git
+   git clone https://github.com/Rasmiranjanparida/OnlineExam.git
